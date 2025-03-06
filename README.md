@@ -1,4 +1,4 @@
-# My Hunter
+# {EPITECH} my_hunter
 
 A Duck Hunt inspired game developed in C using the CSFML library.
 
